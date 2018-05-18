@@ -6,7 +6,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scoreboard.*;
 
-public class Main extends JavaPlugin {
+public class Main extends JavaPlugin { //Leon Is Awesome, Play on Arctic. Also Bane Is Cool, Play on 2 Donkeys
 
     @Override
     public void onEnable() {
